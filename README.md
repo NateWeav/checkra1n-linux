@@ -1,4 +1,4 @@
-# checkra1n-linux minimal Live USB
+# A fork of downthecrop's checkra1n-linux minimal Live USB, updated for Checkra1n 0.12.0 beta
 
 ## Portable minimal boot environment for use with checkra1n
 
